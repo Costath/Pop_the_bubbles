@@ -1,0 +1,27 @@
+#AllPage{
+  width: 980px;
+  margin-left: auto;
+  margin-right: auto;
+  /* border: thin solid black; */
+}
+#bubblesPlace{
+  color: blue; 
+}
+.bubble{
+  height: 30px;
+  width: 30px;
+  border-radius: 15px;
+  position: absolute;
+}
+#statusBar{
+  position: absolute;
+  bottom: 0px;
+  background-color: 90EE90;
+  width: 980px;
+  height: 15px;
+  padding: 5px;
+}
+#statusBar p{
+  margin: o;
+  display: inline;
+}
